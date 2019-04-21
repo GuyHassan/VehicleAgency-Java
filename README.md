@@ -56,7 +56,8 @@ System development for a vehicle management agency - Using **JAVA** language, us
 ![test drive](https://user-images.githubusercontent.com/33378368/45181816-30163d80-b228-11e8-8db2-a3f4b9aeef90.gif)
 
 > Change flag 
-![change flag](https://user-images.githubusercontent.com/33378368/45181811-2f7da700-b228-11e8-960c-a682acf22f8b.gif)
+
+![changeflag](https://user-images.githubusercontent.com/33221427/56471061-71292e00-6456-11e9-95cb-6c7b34906b59.gif)
 
 > Vehicles inventory
 ![inventory](https://user-images.githubusercontent.com/33378368/45181812-2f7da700-b228-11e8-8f4b-31dcbadcdb7e.gif)
