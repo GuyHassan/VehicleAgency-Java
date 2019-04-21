@@ -52,9 +52,6 @@ System development for a vehicle management agency - Using **JAVA** language, us
 
 ![buyvehicle](https://user-images.githubusercontent.com/33221427/56470756-a16ecd80-6452-11e9-8fc8-8f0f5fcba5d6.gif)
 
-> Test drive 
-![test drive](https://user-images.githubusercontent.com/33378368/45181816-30163d80-b228-11e8-8db2-a3f4b9aeef90.gif)
-
 > Change flag 
 
 ![changeflag](https://user-images.githubusercontent.com/33221427/56471061-71292e00-6456-11e9-95cb-6c7b34906b59.gif)
@@ -62,11 +59,6 @@ System development for a vehicle management agency - Using **JAVA** language, us
 > Vehicles Reports
 ![vehiclereport](https://user-images.githubusercontent.com/33221427/56471144-b00bb380-6457-11e9-814b-d5fa673116b5.gif)
 
-> Save current state and back to previous state
-![previous state](https://user-images.githubusercontent.com/33378368/45181813-2f7da700-b228-11e8-84ce-50dff08cd80e.gif)
-
-> Reset mileage
-![reset mileage](https://user-images.githubusercontent.com/33378368/45181815-30163d80-b228-11e8-9144-81c38043b907.gif)
 
 
 
