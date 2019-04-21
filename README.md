@@ -42,7 +42,7 @@ System development for a vehicle management agency - Using **JAVA** language, us
 ### Screenshots
 > Main Frame
 
-![main](https://user-images.githubusercontent.com/33221427/56469792-f3115b00-6446-11e9-9d35-6a1c57af1ba7.JPG)
+![main](https://user-images.githubusercontent.com/33221427/56469860-dd506580-6447-11e9-90cf-603292ddddbd.jpg)
 
 > Add new vehicle
 ![add new vehicle](https://user-images.githubusercontent.com/33378368/45181694-d3b31e00-b227-11e8-9a2b-38d16c37c480.gif)
