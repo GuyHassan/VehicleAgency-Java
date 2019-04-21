@@ -49,7 +49,8 @@ System development for a vehicle management agency - Using **JAVA** language, us
 ![addvehicle](https://user-images.githubusercontent.com/33221427/56470649-6f10a080-6451-11e9-99d7-e42c8225a000.gif)
 
 > Buy vehicle 
-![buy vehice](https://user-images.githubusercontent.com/33378368/45181788-1d9c0400-b228-11e8-8384-750511f4137a.gif)
+
+![buyvehicle](https://user-images.githubusercontent.com/33221427/56470756-a16ecd80-6452-11e9-8fc8-8f0f5fcba5d6.gif)
 
 > Test drive 
 ![test drive](https://user-images.githubusercontent.com/33378368/45181816-30163d80-b228-11e8-8db2-a3f4b9aeef90.gif)
